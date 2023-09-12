@@ -6,3 +6,7 @@ C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug
 C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug\mant_xrppos.csproj.CoreCompileInputs.cache
 C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug\mant_xrppos.exe
 C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug\mant_xrppos.pdb
+C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\bin\Debug\mant_xrppos.exe.manifest
+C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\bin\Debug\mant_xrppos.application
+C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug\mant_xrppos.exe.manifest
+C:\Users\pract.sistemas2\Documents\XRRPOS_MANT\mant_xrppos\mant_xrppos\obj\Debug\mant_xrppos.application
